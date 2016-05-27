@@ -1,0 +1,17 @@
+{
+    "name": "dhii/wpcr-website-theme-2016",
+    "description": "The 2016 theme for the WP Code Reviews website.",
+    "type": "wordpress-theme",
+    "version": "0.1",
+    "authors": [
+        {
+            "name": "Miguel Muscat",
+            "email": "miguelmuscat93@gmail.com"
+        },
+        {
+            "name": "Anton Ukhanev",
+            "email": "xedin.unknown@gmail.com"
+        }
+    ],
+    "require": {}
+}

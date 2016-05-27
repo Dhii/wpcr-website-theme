@@ -1,0 +1,32 @@
+/*
+ Theme Name:   WP Code Reviews Theme 2016
+ Theme URI:    http://wpcodereviews.com
+ Description:  WP Code Reviews Theme 2016
+ Author:       Miguel Muscat, Anton Ukhanev
+ Author URI:   http://dhii.co
+ Template:     independent-publisher
+ Version:      0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, responsive-layout, accessibility-ready
+ Text Domain:  wpcrt
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,200,100,300,500,600,700,600italic,500italic,400italic,300italic,200italic,100italic);
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, a, span, figure,
+input, input[type="text"], input[type="password"], input[type="email"], input[type="number"],
+.widget_search input[type="text"],
+.entry-meta a {
+    font-family: 'Raleway';
+}
+
+.site-title a {
+    font-weight: 100;
+    font-size: 2.48em;
+}
+.site-title a span:nth-child(even) {
+    font-weight: 400;
+}
